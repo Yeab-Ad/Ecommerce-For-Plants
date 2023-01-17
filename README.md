@@ -1,7 +1,18 @@
-# Flutter UI - Plants App
+<!-- @format -->
 
-An onboarding screen ui for a Plant App coded in Flutter and Dart
-![plant-app](https://user-images.githubusercontent.com/102694446/173368186-5ac0d80f-d6f6-4594-98b3-838d95b0b8f8.png)
+# Flutter UI - Plants Ecommerce App
 
-View Tutorial on YouTube
-[https://youtu.be/YI64uyPSduE](https://www.youtube.com/watch?v=NWAJDtaovOU)
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
