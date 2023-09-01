@@ -5,6 +5,8 @@
 A new Flutter project.
 
 ## Getting Started
+![Alt text](https://freebiesui.com/wp-content/uploads/2020/12/Plant-Shop-E-Commerce-App.jpg)
+
 
 This project is a starting point for a Flutter application.
 
